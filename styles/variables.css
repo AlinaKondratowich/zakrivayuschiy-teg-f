@@ -2,8 +2,8 @@
 :root {
   --main-font: "PressStart2P", fantasy;
   --accent-font: "Inter", sans-serif;
-  --main-font-weight: 400px;
-  --accent-font-weight: 700px;
+  --main-font-weight: 400;
+  --accent-font-weight: 700;
   --font-color: #000000;
   --button-text: #ffffff;
   --fill-heart: #ff0000;
